@@ -5,3 +5,4 @@ Here is Theoritical and practical concepts of Supervised and Unsupervised Machin
   - Decision Tree Classifier
   - K-Nearest Naigbour
   - Naive Bayes
+  - K-Means Clustering
